@@ -8,7 +8,7 @@
 
 ## About me
 
-As a computer engineer, i'm not tied to tool or programming language, I learn what I need when I need to design and build computer systems.
+As a computer engineer, i'm not limited to tool or programming language, I learn what I need when I need to design and build computer systems.
 I like to work with high performance processing because some experience that i had at college with hardware-software coprocessing that make me do a computer engineer degree.
 Today I'm improving my knowledge about technologies and tools used actually in many different areas, with special focus in Data Engineering and Network Engineering to complement my base knowledge.
 
