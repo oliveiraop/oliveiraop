@@ -1,10 +1,17 @@
 ### Hi there, I'm Osmar 👋
 
+
 - 🔭 I’m currently working on Embedded Systems projects at Senai Cimatec and finishing Computer Engineering at UFBA
 - 🌱 I’m currently learning Data Engineering basics and tools
 - 👯 I’m looking to collaborate on Data Engineering and Computer Network Projects
 - 🤔 I’m looking for help with planning my carreer and decide where to focus my skills
 - 📫 How to reach me: https://www.linkedin.com/in/oliveiraop
+<div align="center">
+  <a href="https://www.linkedin.com/in/oliveiraop">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveiraop&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraop&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
 
 ## About me
 
