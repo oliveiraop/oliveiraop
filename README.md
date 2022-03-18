@@ -2,9 +2,7 @@
 
 
 - 🔭 I’m currently working on Embedded Systems projects at Senai Cimatec and finishing Computer Engineering at UFBA
-- 🌱 I’m currently learning Data Engineering basics and tools
-- 👯 I’m looking to collaborate on Data Engineering and Computer Network Projects
-- 🤔 I’m looking for help with planning my carreer and decide where to focus my skills
+- 🌱 I’m currently learning DevOps and Containers for embedded systems.
 - 📫 How to reach me: https://www.linkedin.com/in/oliveiraop
 <div align="center">
   <a href="https://www.linkedin.com/in/oliveiraop">
