@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Embedded Systems projects at Senai Cimatec and finishing Computer Engineering at UFBA
-- 🌱 I’m currently learning DevOps and Containers for embedded systems.
+- 🌱 I’m currently learning Embedded Software Developing and IEC 61508 for Functional Safety on Electronic Systems
 - 📫 How to reach me: https://www.linkedin.com/in/oliveiraop
 <div align="center">
   <a href="https://www.linkedin.com/in/oliveiraop">
