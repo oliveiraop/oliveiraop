@@ -1,25 +1,28 @@
-### Hi there, I'm Osmar 👋
+# 👋 Olá! Sou Osmar Oliveira
 
+**Senior Software Engineer** especializado em **Linux embarcado**, **IoT industrial**, **C/C++**, **segurança** e integração profunda com sistemas operacionais.  
+Atualmente trabalho no desenvolvimento de agentes e arquiteturas de telemetria/segurança para múltiplas plataformas, além de atuar em pesquisa aplicada envolvendo **ROS2**, **Yocto** e sistemas embarcados avançados.
 
-- 🔭 I’m currently working on Embedded Systems projects at Senai Cimatec
-- 📫 How to reach me: https://www.linkedin.com/in/oliveiraop
-<div align="center">
-  <a href="https://www.linkedin.com/in/oliveiraop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveiraop&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraop&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+---
 
+## 🔧 Competências Principais
+- **Embedded Linux**: Yocto, kernel, drivers, systemd  
+- **Programação**: C, C++, Python, Shell  
+- **IoT & Edge**: BLE, MQTT, redes, OTA, telemetria  
+- **Segurança**: auditoria, anti-tamper, firewalling, OS internals  
+- **Sistemas Embarcados**: ZephyrOS, RTOS, arquitetura e integração
 
+---
 
-<!--
-**oliveiraop/oliveiraop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧭 Interesses Atuais
+- Linux embarcado para IoT industrial  
+- ROS2 + robótica aplicada  
+- Infraestrutura segura em dispositivos de borda  
+- Engenharia deep tech e produtos SaaS técnicos  
+- Criação de conteúdo técnico e mentoring
 
-Here are some ideas to get you started:
+---
 
-
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- **LinkedIn:** https://www.linkedin.com/in/oliveiraop  
+- **GitHub:** https://github.com/oliveiraop  
